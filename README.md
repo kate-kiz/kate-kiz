@@ -17,15 +17,15 @@
 
   ## Мой стек: 
 <div id="stack">
-  <img id="stack-img" src="./image/html5-original.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/css3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/react-original.svg" title="React" alt="React" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/webpack-original.svg" title="Webpack" alt="Webpack" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/nodejs-original.svg" title="Node.js" alt="Node.js" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/express-original.svg" title="Express" alt="Express" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/git-original.svg" title="Git" alt="Git" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/vscode-original.svg" title="VSCode" alt="VSCode" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/css3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/react-original.svg" title="React" alt="React" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/nodejs-original.svg" title="Node.js" alt="Node.js" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/express-original.svg" title="Express" alt="Express" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/git-original.svg" title="Git" alt="Git" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/vscode-original.svg" title="VSCode" alt="VSCode" width="50px" height="50px">&nbsp
 </div>
 
